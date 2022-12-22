@@ -23,5 +23,3 @@ function convertToRoman(num) {
     }
     return romanNumeral;
 }
-
-convertToRoman(36);

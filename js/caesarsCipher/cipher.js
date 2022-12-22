@@ -15,5 +15,3 @@ function rot13(str) {
 
     return newStr;
 }
-
-rot13("SERR PBQR PNZC");
